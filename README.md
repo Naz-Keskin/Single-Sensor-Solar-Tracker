@@ -23,7 +23,7 @@ This project highlights the ability to solve hardware limitations (single sensor
 
 ## Physical Setup
 
-![System Tracker General](./docs/tracker_general.jpg)
+![System Tracker General](4dd2326f-e6e4-4919-b961-e968ef4eb16c.jpg)
 *Şekil 2: Servo motor üzerine monte edilmiş mini breadboard ve LDR sensör düzeneğinin genel görünümü.*
 
 ![LDR Circuit Detail](ldr-detail.png)
